@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Super</string>
+    <string name="item_edit">編輯</string>
+    <string name="item_delete">刪除</string>
+    <string name="item_history">History</string>
+    <string name="item_main">Main</string>
+    <string name="item_upload">Upload</string>
+    <string name="micro">Micro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_fragment_history">History</string>
+    <string name="title_fragment_upload">Upload</string>
+    <string name="title_fragment_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
